@@ -1,4 +1,4 @@
-                                                                      # Stock Market Price Prediction
+                                                         # Stock Market Price Prediction
 
 ## Table of Contents
 - [Project Overview](#project-overview)
